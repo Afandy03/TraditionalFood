@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Traditional Food</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="with_cardview">with CardView</string>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="favorite">Favorite</string>
+    <string name="order">Order</string>
+</resources>
